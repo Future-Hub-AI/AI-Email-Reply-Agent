@@ -12,7 +12,7 @@ This is a simple Python AI agent that automatically generates professional email
 
 Clone the repository
 
-git clone https://github.com/yourusername/ai-email-agent.git
+git clone https://github.com/Future-Hub-AI/AI-Email-Reply-Agent.git
 
 Install dependencies
 
